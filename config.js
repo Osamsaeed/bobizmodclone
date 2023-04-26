@@ -8,28 +8,28 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['212605784394', '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸', true],
-  ['212605784394', '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸', true],
-  ['212605784394', '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸', true],
-  ['212605784394', '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸', true],
-  ['212605784394', '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸', true],
-  ['212605784394', '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸', true],
-  ['212605784394', '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸', true],  
-  ['212605784394', '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸', true],	
-  ['212605784394'],
-  ['212605784394'],
-  //['212605784394'],	
-  ['212605784394']
+  ['967737427652', '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸', true],
+  ['967737427652', '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸', true],
+  ['967737427652', '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸', true],
+  ['967737427652', '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸', true],
+  ['967737427652', '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸', true],
+  ['967737427652', '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸', true],
+  ['967737427652', '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸', true],  
+  ['967737427652', '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸', true],	
+  ['967737427652'],
+  ['967737427652'],
+  //['967737427652'],	
+  ['967737427652']
 ] 
 
-global.suittag = ['212605784394'] 
-global.prems = ['212605784394'] 
+global.suittag = ['967737427652'] 
+global.prems = ['967737427652'] 
 
-global.packname = '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸'
+global.packname = '*~_*˼اﻟ|ﻣﺳﺗﻐݪ|ﺷَﺧﺻﯾـاً|🇾🇪|˹*_~*'
 global.author = '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸'
 global.wm = '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸'
 global.igfg = '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸'
-global.wait = '*[❗] سوف يتم تلبية طلبكم بعد قليلا المرجو الانتظار قليلا ...*'
+global.wait = '*[❗]انتظر جار التحميل...*'
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 // 'fiktod' 'BF39D349845E' '675e34de8a' '0b917b905e6f'
@@ -435,10 +435,10 @@ global.gt = '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣�
 global.mysticbot = '𝖡𝖮𝖡𝖨𝖹𝖡𝖮𝖳 𝖡𝖸 𝖭𝖮𝖴𝖱𝖤𝖣𝖣𝖨𝖭𝖤 𝖮𝖴𝖠𝖥𝖸'
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
-global.waitt = '*[❗]  المرجو الانتظار ...*'
-global.waittt = '*[❗] المرجو الانتظار ...*'
-global.waitttt = '*[❗] المرجو الانتظار قليلا...*'
-global.nomorown = '212605784394'
+global.waitt = '*[❗]⌛ _جَارٍ التَحميل..._▰▰▰▱▱▱▱▱▱ تم التطوير من قبل˼اﻟ|ﻣﺳﺗﻐݪ|ﺷَﺧﺻﯾـاً|🇾🇪|˹...*'
+global.waittt = '*[❗]⌛ _جَارٍ التَحميل..._▰▰▰▱▱▱▱▱▱ تم التطوير من قبل˼اﻟ|ﻣﺳﺗﻐݪ|ﺷَﺧﺻﯾـاً|🇾🇪|˹...*'
+global.waitttt = '*[❗]⌛ _جَارٍ التَحميل..._▰▰▰▱▱▱▱▱▱ تم التطوير من قبل˼اﻟ|ﻣﺳﺗﻐݪ|ﺷَﺧﺻﯾـاً|🇾🇪|˹...*'
+global.nomorown = '967737427652'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 global.cmenut = '❖––––––『'
 global.cmenub = '┊✦ '
